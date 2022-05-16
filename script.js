@@ -1,17 +1,5 @@
 /*** Variables ***/
 
-// manifest.json
-{
-  "name" : "Keri Kelly Giphy",
-  "short_name" : "Giphy2Go",
-  "description" : "Carry your favorite GIFs in your pocket!",
-  "start_url" : "",
-  "display" : "fullscreen",
-  "background_color" : "",
-  "theme_color" : "",
-  "icons" : "",
-}
-
 // API Key ********PUT MY OWN API KEY HERE!!!
 const API_KEY = 'vRgpxNRNKxyIlc1sk9lEifd6kDJZDK57';
 // limit
