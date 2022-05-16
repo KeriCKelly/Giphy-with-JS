@@ -18,3 +18,22 @@ input {
   width:25%;
 /* height:100%; */
 }
+
+/* swiper styling*/
+
+.swiper {
+  background: pink;
+}
+
+.swiper-wrapper {
+  background: green;
+}
+
+.swiper-slide {
+  background: lightgreen;
+}
+
+.swiper-slide video {
+  object-fit: cover;
+  width: 100%;
+}
