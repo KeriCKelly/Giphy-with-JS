@@ -1,0 +1,11 @@
+// manifest.json
+{
+    "name" : "Keri Kelly Giphy",
+    "short_name" : "Giphy2Go",
+    "description" : "Carry your favorite GIFs in your pocket!",
+    "start_url" : "",
+    "display" : "fullscreen",
+    "background_color" : "",
+    "theme_color" : "",
+    "icons" : "",
+  }
